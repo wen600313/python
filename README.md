@@ -1,3 +1,3 @@
 # python
 python学习库
-# python自学
+# 一个菜鸡的python自学
